@@ -1,0 +1,10 @@
+ic-data/
+data/panel.npz
+venv/
+.DS_Store
+__pycache__/
+paper/*.aux
+paper/*.log
+paper/*.out
+paper/*.bbl
+paper/*.blg
